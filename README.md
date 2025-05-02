@@ -1,5 +1,6 @@
 # Save Student Information
 Develop an Android application using Kotlin, Jetpack Compose, Material Design 3, and MVVM architecture.
+
 **Description**: Create an Android app named "CentennialStudents" that allows an admin to save student information. 
 The app should include the following features:
 1.	Main Activity:
@@ -24,7 +25,8 @@ The app should include the following features:
 -	Use LazyColumn to display the list of added students.
 
 ## Screenshots
-![](./screenshots/Screenshot1.png)
-![](./screenshots/Screenshot2.png)
-![](./screenshots/Screenshot3.png)
-![](./screenshots/Screenshot4.png)
+<img src="/screenshots/Screenshot1.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot2.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot3.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot4.png" style="width:50%; height:50%;">
+
